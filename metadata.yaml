@@ -1,0 +1,44 @@
+_repo: The-Sorcerer-s-Stone_72378
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sarka, Charles N. (Charles Nicholas)
+    alias: Sarka, Charles Nicolas
+    birthdate: 1879
+    deathdate: 1960
+    gutenberg_agent_id: '38636'
+    url: http://www.gutenberg.org/2009/agents/38636
+creator:
+  author:
+    agent_name: Grimshaw, Beatrice
+    birthdate: 1871
+    deathdate: 1953
+    gutenberg_agent_id: '46026'
+    url: http://www.gutenberg.org/2009/agents/46026
+    wikipedia: https://en.wikipedia.org/wiki/Beatrice_Grimshaw
+description: ''
+gutenberg_issued: '2023-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72378'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/wu.89070369624
+pgterms:marc905: 20230201021036grimshaw
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Carol Brown, Aaron Adrignola, Tim Lindell and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bThe John C. Winston Company, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Jewel thieves -- Fiction'
+- !lcsh 'Diamonds -- Fiction'
+- !lcsh 'Papua New Guinea -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Sorcerer's Stone
+url: http://www.gutenberg.org/ebooks/72378
